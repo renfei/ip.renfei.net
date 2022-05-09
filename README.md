@@ -1,6 +1,10 @@
 # ip.renfei.net
 
-获取你的公网 IP 地址：[ip.renfei.net](https://ip.renfei.net)
+获取你的公网 IP 地址：
+
+* [ip.renfei.net](https://ip.renfei.net)：IPv6/IPv4 混合（IPv6 优先）
+* [ipv4.renfei.net](https://ipv4.renfei.net)：只获取 IPv4（无 IPv4 网络将无法访问）
+* [ipv6.renfei.net](https://ipv6.renfei.net)：只获取 IPv6（无 IPv6 网络将无法访问）
 
 ## 请求头说明
 
